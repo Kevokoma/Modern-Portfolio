@@ -247,7 +247,7 @@ main#home h1 {
 .boxes {
   display: flex;
   flex-wrap: wrap;
-  ju7stify-content: space-evenly;
+  justify-content: space-evenly;
   align-items: center;
   margin-top: 1rem;
 }
@@ -343,7 +343,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url(../img/kev.jpg);
+    background: url("../img/kev.jpg");
     width: 150px;
     height: 150px;
   }
